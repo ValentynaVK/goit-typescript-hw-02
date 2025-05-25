@@ -1,4 +1,5 @@
-import { useState, FormEvent, ChangeEvent } from "react";
+import { useState } from "react";
+import type { FormEvent, ChangeEvent } from "react";
 import { toast } from "react-hot-toast";
 import css from "./SearchBar.module.css";
 import { BsSearch } from "react-icons/bs";
