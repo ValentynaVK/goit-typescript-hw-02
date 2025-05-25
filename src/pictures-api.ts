@@ -1,5 +1,5 @@
 import axios from "axios";
-import { Picture } from "./types";
+import type { Picture } from "./types";
 
 const API_KEY = "JpQ7Zjb3OXgB8XBQH4PzqhCDLnhV6FKEv-Y_401W7VU";
 const BASE_URL = "https://api.unsplash.com";
