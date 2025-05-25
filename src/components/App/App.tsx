@@ -1,1 +1,2 @@
-export default function App() {}
+const App = () => {};
+export default App;
